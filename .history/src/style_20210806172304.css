@@ -1,0 +1,19 @@
+body, a {
+    font-family: Helvetica;
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+    text-align: center;
+    list-style: none;
+}
+.header-logo {
+    width: 50px;
+    
+}
+header {
+    display: flex;
+    height: 70px;
+    border-bottom: 1px solid seashell;
+    position: fixed;
+}
